@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-### Hi there 👋
-
-I am Farah, an aspiring developer majoring in Computer Engineering at the American University of Bahrain (AUBH) & who enjoys iOS development.
+I am Maryam, an computer engineering graduate who enjoys coding!
 
 # 💻 Skills:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -27,6 +25,3 @@ I am Farah, an aspiring developer majoring in Computer Engineering at the Americ
 ![](https://github-readme-stats.vercel.app/api?username=mimalshaikh&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mimalshaikh&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mimalshaikh&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-- ⚡ Fun fact: ...
--->
