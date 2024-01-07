@@ -24,7 +24,6 @@ I am Maryam, a computer engineering graduate who enjoys coding!
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![Linux](https://img.shields.io/badge/linux-%231572B6.svg?style=for-the-badge&logo=linux&logoColor=white) 
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-%23999999.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-%232E5B82.svg?style=for-the-badge&logo=micropython&logoColor=white)
