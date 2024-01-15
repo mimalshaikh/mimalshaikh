@@ -26,6 +26,7 @@ I am Maryam, a computer engineering graduate who enjoys coding!
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-%232E5B82.svg?style=for-the-badge&logo=micropython&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-%2310811F.svg?style=for-the-badge&logo=C&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-%23000000.svg?style=for-the-badge&logo=verilog&logoColor=white)
 ![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-%231F7A89.svg?style=for-the-badge)
 
 # 📊 GitHub Stats:
