@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Maryam, a computer engineering graduate who enjoys coding!
+I am Maryam, a computer engineering graduate who enjoys getting insight into the engineering world!
 
 # 💻 Skills:
 ![C#](https://img.shields.io/badge/C%23-%239146FF.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
